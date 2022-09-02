@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-cf772": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-cf772"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-cf772"
+  }
+}
